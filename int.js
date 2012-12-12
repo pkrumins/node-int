@@ -1,3 +1,4 @@
+
 var Int = function(num) {
     // can be called as a function
     if (!(this instanceof Int)) {
